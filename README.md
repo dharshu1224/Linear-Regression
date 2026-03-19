@@ -65,6 +65,26 @@ plt.legend()
 plt.show()
 ```
 
+### Output:
+
+<img width="686" height="184" alt="image" src="https://github.com/user-attachments/assets/5d57a1d9-1b1c-45e0-9553-15e83fafc055" />
+
+
+<img width="577" height="162" alt="image" src="https://github.com/user-attachments/assets/5a528491-4c68-406a-9401-100db2027333" />
+
+
+<img width="517" height="140" alt="image" src="https://github.com/user-attachments/assets/eb5b3a8c-630e-42bd-8a25-0dde6b19ddab" />
+
+
+<img width="1074" height="683" alt="image" src="https://github.com/user-attachments/assets/427684df-e264-4dbd-ac24-8e58154ec185" />
+
+
+### Output:
+
+machine learning model using Linear Regression to predict future stock closing prices based on historical stock market data containing Open, High, Low, and Volume values is performed.
+
+
+
 ## b) Real-Time Sentiment Analysis of Tweets / Reviews
 
 ## Aim
@@ -131,3 +151,18 @@ plt.show()
 print("\nSample Results:")
 print(data[["text", "Sentiment"]].head())
 ```
+### Output:
+
+<img width="792" height="103" alt="image" src="https://github.com/user-attachments/assets/2b5a683f-5bb7-4a08-8106-1b9301b09c3a" />
+
+
+<img width="786" height="282" alt="image" src="https://github.com/user-attachments/assets/75b7e745-42ea-4aef-9147-b0ef7fdf0ab8" />
+
+
+<img width="890" height="794" alt="image" src="https://github.com/user-attachments/assets/d3dc087a-b69e-4d87-9281-17f0a7098403" />
+
+
+### Result:
+
+ real-time sentiment analysis on user-provided tweets or text reviews using TextBlob and classify them into Positive, Negative, or Neutral categories performed.
+
